@@ -1,0 +1,52 @@
+{
+  "schedule": [
+    {
+      "id": 811,
+      "title": "Всё о курсе «Инфраструктурная платформа на основе Kubernetes»",
+      "program": "Kuber-2020-11",
+      "date": "2020-12-11T17:00:00Z",
+      "teachers": [
+        {
+          "id": 210,
+          "fullname": "Антон Морев"
+        }
+      ]
+    },
+    {
+      "id": 824,
+      "title": "Интеграционные тесты на Go",
+      "program": "Go-2020-11",
+      "date": "2020-11-13T17:00:00Z",
+      "teachers": [
+        {
+          "id": 796,
+          "fullname": "Максим Иванов"
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "title": "Алиса в мире облаков: приключения с Terraform и Ansible",
+      "program": "DevOps-2020-11",
+      "date": "2020-12-17T17:00:00Z",
+      "teachers": [
+        {
+          "id": 210,
+          "fullname": "Антон Морев"
+        }
+      ]
+    },
+    {
+      "id": 826,
+      "title": "Kubetnetes hardening",
+      "program": "Kuber-2020-11",
+      "date": "2020-11-19T17:00:00Z",
+      "teachers": [
+        {
+          "id": 216,
+          "fullname": "Елена Петрова"
+        }
+      ]
+    }
+  ]
+}
